@@ -43,4 +43,5 @@ public class Game extends JPanel implements ActionListener, KeyListener {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(true);
     }
+    
 }
